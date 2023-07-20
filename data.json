@@ -1,17 +1,17 @@
 [
     {
       "link": "https://wordcount.in",
-      "imageUrl": "https://via.placeholder.com/300",
+      "imageUrl": "./images/wordcount_in.png",
       "title": "Word Count"
     },
     {
       "link": "https://pin-code.in",
-      "imageUrl": "https://via.placeholder.com/300",
+      "imageUrl": "./images/pin-code_in.png",
       "title": "Pin Code Finder"
     },
     {
       "link": "https://indiapincode.in",
-      "imageUrl": "https://via.placeholder.com/300",
+      "imageUrl": "./images/indiapincode_in.png",
       "title": "Search Pin Code"
     },
     {
